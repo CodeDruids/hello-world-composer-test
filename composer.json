@@ -1,0 +1,22 @@
+{
+	"name": "codedruids/hello-world-composer",
+	"description": "Simple package for testing codedruids/hello-world",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Leith Caldwell",
+			"email": "leith@codedruids.com"
+		}
+	],
+    "require": {
+        "CodeDruids/hello-world": "1.*"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git://github.com/CodeDruids/hello-world.git"
+        }
+    ],
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
