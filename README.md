@@ -1,6 +1,6 @@
 # HelloWorld Composer
 
-Simple project to test the [CodeDruids/hello-world](https://github.com/CodeDruids/hello-world) Composer package
+Simple project to test the [CodeDruids/hello-world-composer](https://github.com/CodeDruids/hello-world-composer) Composer package
 
 [The test file](src\HelloWorldComposer.php) will simply echo the result from the `HelloWorld::sayHello()` method.
 

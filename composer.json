@@ -1,6 +1,6 @@
 {
 	"name": "codedruids/hello-world-composer",
-	"description": "Simple package for testing codedruids/hello-world",
+	"description": "Simple package for testing codedruids/hello-world-composer",
 	"license": "MIT",
 	"authors": [
 		{
@@ -9,12 +9,12 @@
 		}
 	],
     "require": {
-        "CodeDruids/hello-world": "1.*"
+        "CodeDruids/hello-world-composer": "1.*"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "git://github.com/CodeDruids/hello-world.git"
+            "url": "git://github.com/CodeDruids/hello-world-composer.git"
         }
     ],
 	"minimum-stability": "dev",
